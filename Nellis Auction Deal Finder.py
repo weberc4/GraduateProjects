@@ -17,7 +17,7 @@ from email.mime.multipart import MIMEMultipart
 
 # important information for apis
 my_email = 'charlesjcweber@gmail.com'
-password = 'sszh iiyc dtze kspf'
+password = ''
 nellis_url = 'https://www.nellisauction.com/search?Location+Name=Dean+Martin&Suggested+Retail=100'
 
 def get_listings():
